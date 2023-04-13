@@ -11,6 +11,8 @@
 <h2> Tomcat </h2>
 <h1> Testing in London server </h1>
 <h1> Documenting the entire project </h1>
+<h1> The project has been done using docker container </h1>
+<p> Pipeline is now complete </p>
 </body>
 </html>
 
